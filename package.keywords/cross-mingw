@@ -1,0 +1,5 @@
+cross-mingw/binutils amd64 ~amd64
+cross-mingw/gcc amd64 ~amd64
+cross-mingw/gdb amd64 ~amd64
+cross-mingw/mingw-runtime amd64 ~amd64
+cross-mingw/w32api amd64 ~amd64

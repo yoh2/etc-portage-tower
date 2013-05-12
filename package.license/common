@@ -1,0 +1,5 @@
+dev-java/sun-jdk	dlj-1.1 Oracle-BCLA-JavaSE
+dev-java/sun-jce-bin	sun-bcla-java-vm
+
+=www-plugins/adobe-flash-10*	AdobeFlash-10.1
+=www-plugins/adobe-flash-11*	AdobeFlash-10.3 AdobeFlash-11.x

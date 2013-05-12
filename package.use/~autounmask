@@ -1,0 +1,25 @@
+#required by dev-libs/libnl-3.2.13[doc], required by @selected, required by @world (argument)
+=app-doc/doxygen-1.7.6.1 latex
+#required by media-libs/mesa-9.0[gbm,-xorg], required by x11-base/xorg-server-1.13.0-r1[-minimal], required by x11-drivers/ati-drivers-12.11_beta, required by x11-base/xorg-drivers-1.13[video_cards_fglrx]
+>=x11-libs/libdrm-2.4.40 libkms
+#required by kde-base/pykde4-4.9.5, required by kde-base/system-config-printer-kde-4.9.5, required by kde-base/kdeadmin-meta-4.9.5[cups], required by kde-base/kde-meta-4.9.5, required by @selected, required by @world (argument)
+>=dev-python/PyQt4-4.9.6-r2 script
+#required by www-client/chromium-26.0.1410.12, required by @selected, required by @world (argument)
+=media-libs/mesa-9.0.1 gles2
+# required by www-client/chromium-27.0.1453.12
+# required by @selected
+# required by @world (argument)
+=media-video/ffmpeg-1.0.6 opus
+# required by sys-fs/cryptsetup-1.4.3[static-libs,-static]
+# required by sys-fs/udisks-2.1.0[crypt]
+# required by kde-base/kdelibs-4.10.1-r1[udisks]
+# required by kde-base/kdebase-startkde-4.10.1
+# required by kde-base/kdebase-meta-4.10.1
+# required by kde-base/kde-meta-4.10.1
+# required by @selected
+# required by @world (argument)
+=sys-fs/lvm2-2.02.97-r1 static-libs
+# required by www-client/chromium-27.0.1453.12
+# required by @selected
+# required by @world (argument)
+>=media-libs/mesa-9.1.1 gles2

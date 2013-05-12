@@ -1,0 +1,483 @@
+=app-admin/usbview-2.0		~amd64
+=app-arch/unzip-6.0-r3		~amd64
+=app-arch/zip-3.0-r1		~amd64
+app-emacs/twittering-mode	~amd64
+app-i18n/libguess		~amd64
+app-misc/hello			~amd64
+
+dev-dotnet/gnome-keyring-sharp	~amd64
+games-emulation/pcsx2		~amd64
+
+kde-misc/kwebkitpart		~amd64
+kde-misc/wacomtablet		~amd64
+
+# move media-fonts/freefont-ttf media-fonts/freefont
+media-fonts/freefont	~amd64
+media-fonts/takao-fonts		~amd64
+media-libs/win32codecs	~amd64
+=media-libs/alsa-lib-1.0.14a ~amd64
+media-libs/libmtp		~amd64
+media-libs/libwebp		~amd64
+=media-libs/mesa-7*		~amd64
+=media-libs/mesa-8.0.3-r1	~amd64
+>=media-libs/raptor-2.0.4	~amd64
+media-libs/x264			~amd64
+=media-sound/alsa-headers-1.0.14 ~amd64
+media-sound/lame ~amd64
+media-video/ffmpeg		~amd64
+virtual/ffmpeg		~amd64
+=media-video/kmplayer-0.11*	~amd64
+=media-video/kplayer-0.7*	~amd64
+media-video/mplayer-bin	~amd64
+media-video/xanim-export	**
+
+=sys-block/thin-provisioning-tools-0.1.5* ~amd64
+sys-boot/grub			~amd64
+sys-devel/llvm ~amd64
+sys-devel/llvm ~amd64
+sys-devel/clang ~amd64
+=sys-fs/lvm2-2.02.97	~amd64
+sys-fs/udev-init-scripts	~amd64
+=sys-power/cpufreqd-2.4.2-r2	~amd64
+sys-devel/gcc:4.7	~amd64
+
+=sys-devel/gcc-3.2	~amd64
+=virtual/jdk-1.5*	~amd64
+=www-client/firefox-2*	~amd64
+x11-libs/libview	~amd64
+x11-libs/libvdpau		~amd64
+>=app-admin/eselect-1.0.9	~amd64
+app-admin/eselect-news		~amd64
+app-admin/eselect-opengl	~amd64
+app-admin/eselect-python	~amd64
+app-admin/system-config-printer-common	~amd64
+>=app-misc/strigi-0.6.3		~amd64
+>=dev-db/m17n-db-1.3.3		~amd64
+>=dev-java/blackdown-jdk-1.4.2.03-r12	~amd64
+=dev-libs/json-c-0.10-r1	~amd64
+dev-libs/libassuan		~amd64
+=dev-libs/libzip-0.8*		~amd64
+>=dev-libs/m17n-lib-1.3.1	~amd64
+>=x11-proto/glproto-1.4.8	~amd64
+
+>=app-arch/libarchive-2.6.1	~amd64
+app-arch/xz-utils		~amd64
+
+dev-db/virtuoso-server		~amd64
+dev-db/virtuoso-odbc		~amd64
+
+>=app-crypt/gpgme-1.1.6		~amd64
+=app-crypt/qca-2.0*		~amd64
+app-emulation/vmware-modules	~amd64
+=app-emulation/vmware-modules-238.2 **
+app-emulation/vmware-server-console	~amd64
+app-emulation/vmware-tools	~amd64
+app-emulation/vmware-workstation	~amd64
+=app-office/akonadi-server-1.1*	~amd64
+app-text/dvisvgm	~amd64
+app-text/dvipsk		~amd64
+app-text/ebook-tools	~amd64
+app-text/jadetex	~amd64
+app-text/passivetex	~amd64
+app-text/ps2pkm		~amd64
+app-text/qpdf		~amd64
+app-text/teckit		~amd64
+app-i18n/fbiterm	**
+app-i18n/jless		~amd64
+app-i18n/libtomoe-gtk	~amd64
+app-i18n/scim-tomoe	~amd64
+app-i18n/skk-jisyo-extra **
+app-i18n/tomoe		~amd64
+app-i18n/uim-svn	~amd64
+app-i18n/uim-tomoe-gtk	~amd64
+app-misc/sl		~amd64
+=app-misc/strigi-0.5.7*	~amd64
+app-portage/gentwoo	~amd64
+app-portage/layman	~amd64
+app-text/dvipdfm	~amd64
+app-text/lcdf-typetools	~amd64
+app-text/mecab		~amd64
+app-text/ps2eps		~amd64
+app-text/texlive	~amd64
+app-text/texlive-core	~amd64
+app-text/xdvik		~amd64
+app-text/xdvipdfmx	~amd64
+
+=dev-cpp/clucene-0.9.20*	~amd64
+dev-cpp/eigen:2			~amd64
+dev-lang/dmd			~amd64
+dev-lang/dmd-bin		**
+=dev-cpp/libsexymm-0.1.9	~amd64
+=dev-java/java-config-1.3*	~amd64
+=dev-java/java-config-2.0*	~amd64
+=dev-lang/icc-8.1.028		~amd64
+dev-lang/nacl-toolchain-newlib	~amd64
+=dev-lang/ruby-1.9.2*		~amd64
+dev-libs/glib			~amd64
+dev-libs/kpathsea		~amd64
+dev-libs/libgpg-error		~amd64
+=dev-libs/libical-0.33*		~amd64
+dev-libs/libotf			~amd64
+dev-libs/phobos			~amd64
+dev-libs/protobuf		~amd64
+dev-libs/ptexenc		~amd64
+>=dev-libs/rasqal-0.9.16	~amd64
+>=dev-libs/redland-1.0.6	~amd64
+dev-libs/soprano		~amd64
+=dev-lang/squeak-3*		**
+dev-lang/squeak-fullimage	**
+dev-lang/v8			~amd64
+dev-util/android-sdk-update-manager	~amd64
+dev-util/chromium-tools		~amd64
+=dev-util/cmake-2.6*		~amd64
+dev-util/dmd-common		~amd64
+=dev-vcs/kdesvn-1.3*		~amd64
+dev-util/nvidia-cuda-toolkit	~amd64
+dev-java/java-config-wrapper	~amd64
+dev-java/java-sdk-docs		~amd64
+dev-java/sun-j2me-bin		~amd64
+dev-java/sun-jaf		~amd64
+dev-java/sun-javamail		~amd64
+dev-lang/dmd-bin		~amd64
+dev-lang/smlnj			~amd64
+dev-lang/squeak			~amd64
+dev-lang/squeak-basicimage	~amd64
+dev-lang/squeak-fullimage	~amd64
+dev-perl/mecab-perl		~amd64
+dev-python/compizconfig-python	~amd64
+dev-python/pycups		~amd64
+dev-python/pysvn		~amd64
+dev-python/sip			~amd64
+dev-ruby/mecab-ruby		~amd64
+dev-ruby/rcairo			~amd64
+dev-ruby/rdoc			~amd64
+dev-ruby/ruby-gtk2		~amd64
+dev-ruby/rubygems		~amd64
+dev-vcs/gti			**
+
+dev-tex/bibtexu			~amd64
+dev-tex/cjk-latex               ~amd64
+dev-tex/currvita		~amd64
+dev-tex/detex                   ~amd64
+dev-tex/dot2texi		~amd64
+dev-tex/envlab			~amd64
+dev-tex/europecv		~amd64
+dev-tex/g-brief			~amd64
+dev-tex/glossaries		~amd64
+dev-tex/latex-beamer            ~amd64
+dev-tex/latexmk			~amd64
+dev-tex/leaflet			~amd64
+dev-tex/luatex			~amd64
+dev-tex/mh			~amd64
+dev-tex/mplib			~amd64
+dev-tex/pgf                     ~amd64
+dev-tex/svninfo			~amd64
+dev-tex/tex4ht                  ~amd64
+dev-tex/translator		~amd64
+dev-tex/xcolor                  ~amd64
+dev-tex/xmltex			~amd64
+
+dev-texlive/texlive-basic       ~amd64
+dev-texlive/texlive-bibtexextra ~amd64
+dev-texlive/texlive-context     ~amd64
+dev-texlive/texlive-documentation-base  ~amd64
+dev-texlive/texlive-documentation-chinese	~amd64
+dev-texlive/texlive-documentation-english       ~amd64
+dev-texlive/texlive-documentation-french        ~amd64
+dev-texlive/texlive-documentation-german        ~amd64
+dev-texlive/texlive-documentation-japanese      ~amd64
+dev-texlive/texlive-fontsextra  ~amd64
+dev-texlive/texlive-fontsrecommended    ~amd64
+dev-texlive/texlive-fontutils    ~amd64
+dev-texlive/texlive-formatsextra        ~amd64
+dev-texlive/texlive-games       ~amd64
+dev-texlive/texlive-genericrecommended  ~amd64
+dev-texlive/texlive-genericextra        ~amd64
+dev-texlive/texlive-htmlxml     ~amd64
+dev-texlive/texlive-humanities  ~amd64
+dev-texlive/texlive-langcjk     ~amd64
+dev-texlive/texlive-langcyrillic        ~amd64
+dev-texlive/texlive-langenglish  ~amd64
+dev-texlive/texlive-langfrench  ~amd64
+dev-texlive/texlive-langgerman  ~amd64
+dev-texlive/texlive-langgreek   ~amd64
+dev-texlive/texlive-langlatin   ~amd64
+dev-texlive/texlive-latex       ~amd64
+dev-texlive/texlive-latexextra  ~amd64
+# move dev-texlive/texlive-latex3 dev-texlive/texlive-latexrecommended
+dev-texlive/texlive-latexrecommended      ~amd64
+dev-texlive/texlive-latexrecommended    ~amd64
+dev-texlive/texlive-mathextra   ~amd64
+dev-texlive/texlive-metapost    ~amd64
+dev-texlive/texlive-music       ~amd64
+dev-texlive/texlive-omega       ~amd64
+dev-texlive/texlive-pictures    ~amd64
+dev-texlive/texlive-plainextra  ~amd64
+# move dev-texlive/texlive-psutils dev-texlive/texlive-fontutils
+dev-texlive/texlive-fontutils     ~amd64
+dev-texlive/texlive-pstricks    ~amd64
+dev-texlive/texlive-publishers	~amd64
+dev-texlive/texlive-science     ~amd64
+dev-texlive/texlive-texinfo     ~amd64
+dev-texlive/texlive-xetex       ~amd64
+
+
+games-arcade/xbat	~amd64
+games-misc/sdljoytest	~amd64
+games-roguelike/jnethack-cvs		~amd64
+games-roguelike/noegnud-jnethack	~amd64
+games-util/joystick	~amd64
+
+mail-filter/bsfilter	~amd64
+
+media-plugins/audacious-crossfade	~amd64
+media-fonts/ipamonafont		~amd64
+media-gfx/f-spot		~amd64
+#=media-gfx/splashutils-1.5.4*	~amd64
+media-gfx/sam2p
+=media-libs/capseo-0.3.0*	~amd64
+=media-libs/ilmbase-1.0*	~amd64
+=media-libs/libcaptury-0.3.0*	~amd64
+media-libs/sdl-gui		**
+media-libs/silgraphite		~amd64
+media-plugins/gst-plugins-faad	~amd64
+media-plugins/gst-plugins-lame	~amd64
+media-sound/alsa-headers	~amd64
+media-sound/alsa-driver		~amd64
+media-sound/banshee	~amd64
+media-sound/kenvy24		~amd64
+=media-sound/phonon-4.3*	~amd64
+media-video/mplayerthumbs	~amd64
+=media-video/mplayer-1.0_rc4_p20091026-r1 ~amd64
+
+net-dialup/ppp			~amd64
+net-firewall/xtables-addons	~amd64
+=net-fs/samba-3.4*		~amd64
+=net-fs/samba-client-3.4*	~amd64
+=net-fs/samba-libs-3.4*		~amd64
+=net-fs/samba-server-3.4*	~amd64
+net-misc/curl			~amd64
+net-misc/hotot			~amd64
+net-misc/modemmanager		~amd64
+net-misc/mikutter		~amd64
+net-misc/networkmanager		~amd64
+net-misc/strongswan		~amd64
+net-print/cups			~amd64
+net-print/cups-filters		~amd64
+net-wireless/kbluetooth		~amd64
+net-wireless/bluez		~amd64
+
+www-apps/amaya			~amd64
+www-client/chromium		~amd64
+www-plugins/gnash		~amd64
+www-plugins/nspluginwrapper	~amd64
+
+=sci-mathematics/gmm-3.0* ~amd64
+sci-misc/boinc		~amd64
+sci-misc/kboincspy	~amd64
+
+sys-apps/edac-utils			~amd64
+sys-apps/hwloc				~amd64
+sys-apps/iproute2			~amd64
+sys-apps/openrc				~amd64
+=sys-apps/portage-2.2_rc11		~amd64
+=sys-apps/sandbox-1.3.2			~amd64
+=sys-apps/tomoyo-tools-2.5*		~amd64
+sys-cluster/opnmpi			~amd64
+=sys-devel/gcc-4.2*			~amd64
+=sys-devel/gcc-4.3*			~amd64
+sys-devel/libtool			~amd64
+sys-fs/mtpfs				~amd64
+sys-fs/udev				~amd64
+=sys-libs/glibc-2.7*			~amd64
+sys-libs/libcap-ng			~amd64
+sys-libs/talloc				~amd64
+sys-libs/tdb				~amd64
+# move sys-kernel/amd-ucode sys-firmware/amd-ucode
+sys-firmware/amd-ucode			~amd64
+=sys-kernel/linux-headers-2.6.25*	~amd64
+=sys-kernel/linux-headers-2.6.28*	~amd64
+=sys-kernel/gentoo-sources-2.6.28-r1	~amd64
+=sys-kernel/gentoo-sources-2.6.29	~amd64
+sys-auth/consolekit			~amd64
+sys-auth/policykit			~amd64
+sys-auth/polkit				~amd64
+
+x11-apps/ati-drivers-extra	~amd64
+x11-apps/ccsm			~amd64
+=x11-apps/rgb-1.0.3*		~amd64
+=x11-apps/xauth-1.0*		~amd64
+=x11-apps/xinit-1.0.5*		~amd64
+=x11-apps/xinit-1.0.8*		~amd64
+x11-base/xgl			~amd64
+=x11-base/xorg-server-1.7*	~amd64
+=x11-base/xorg-drivers-1.7*	~amd64
+x11-drivers/nvidia-drivers	~amd64
+x11-drivers/linuxwacom		~amd64
+#x11-drivers/xf86-input-joystick
+x11-drivers/xf86-input-keyboard
+x11-drivers/xf86-input-mouse
+x11-drivers/xf86-input-wacom
+=x11-drivers/xf86-video-ati-6.9.0*	~amd64
+x11-drivers/xf86-video-radeonhd		~amd64
+=x11-drivers/xf86-video-vesa-2.0.0*	~amd64
+=x11-libs/libX11-1.3*
+=x11-libs/libXau-1.0.4*		~amd64
+=x11-libs/libXext-1.1*		~amd64
+=x11-libs/libXi-1.3*		~amd64
+=x11-libs/libXrender-0.9.4*	~amd64
+=x11-libs/libXtst-1.1*		~amd64
+x11-libs/agg			~amd64
+=x11-libs/libdrm-2*		~amd64
+x11-libs/libiterm-mbt		~amd64
+x11-libs/libcompizconfig	~amd64
+x11-libs/libpciaccess		~amd64
+x11-libs/libXfont
+x11-libs/libXxf86dga
+x11-libs/libXxf86vm
+x11-libs/libXinerama
+x11-libs/compiz-bcop		~amd64
+x11-libs/compizconfig-backend-gconf 		~amd64
+x11-libs/compizconfig-backend-kconfig4 		~amd64
+=x11-libs/pixman-0.12*		~amd64
+=x11-libs/xtrans-1.2.2*		~amd64
+x11-misc/beryl-manager		~amd64
+x11-misc/beryl-settings		~amd64
+x11-misc/beryl-settings-bindings	~amd64
+x11-misc/macopix		~amd64
+x11-misc/google-gadgets		~amd64
+=x11-misc/xkeyboard-config-1.3*	~amd64
+=x11-misc/xdg-utils-1.0.2*	~amd64
+x11-plugins/beryl-plugins	~amd64
+x11-plugins/compiz-fusion-extra	~amd64
+x11-plugins/compiz-fusion-main	~amd64
+x11-plugins/compiz-fusion-unsupported	~amd64
+x11-plugins/compiz-plugins-extra	~amd64
+x11-plugins/compiz-plugins-main	~amd64
+x11-plugins/compiz-plugins-unsupported	~amd64
+x11-proto/dri2proto
+x11-proto/fixesproto
+x11-proto/inputproto
+x11-proto/randrproto
+x11-proto/recordproto
+x11-proto/renderproto
+x11-proto/xf86dgaproto
+x11-proto/xf86driproto
+x11-proto/xf86vidmodeproto
+x11-proto/xineramaproto
+x11-proto/xdgaproto
+x11-proto/xextproto
+x11-proto/xproto
+x11-themes/audacious-themes	~amd64
+x11-themes/emerald-themes	~amd64
+#x11-themes/gtk-engines-qt	~amd64
+x11-themes/gtk-engines-qtcurve	~amd64
+x11-wm/aquamarine		~amd64
+x11-wm/beryl			~amd64
+x11-wm/beryl-core		~amd64
+x11-wm/compiz			~amd64
+x11-wm/compiz-fusion		~amd64
+=x11-wm/emerald-0.8.4*			~amd64
+x11-wm/heliodor			~amd64
+x11-wm/heliodor			~amd64
+
+
+#required by www-client/opera-11.50.1074[gstreamer], required by @selected, required by @world (argument)
+>=media-libs/gstreamer-0.10.35 ~amd64
+#required by media-plugins/gst-plugins-meta-0.10-r5, required by net-im/pidgin-2.9.0[gstreamer], required by @selected, required by @world (argument)
+>=media-libs/gst-plugins-base-0.10.35 ~amd64
+#required by =virtual/rubygems-4 (argument)
+>=virtual/rubygems-4:ruby19 ~amd64
+#required by dev-ruby/rdoc-3.11[-test,doc,ruby_targets_ruby18], required by dev-lang/ruby-1.9.3_rc1[rdoc], required by dev-ruby/rubygems-1.8.11[ruby_targets_ruby19], required by virtual/rubygems-4, required by dev-ruby/json-1.6.3
+>=dev-ruby/hoe-2.12.3 ~amd64
+#required by dev-ruby/rdoc-3.11[ruby_targets_ruby18], required by dev-lang/ruby-1.9.3_rc1[rdoc], required by dev-ruby/rubygems-1.8.11[ruby_targets_ruby19], required by virtual/rubygems-4, required by dev-ruby/json-1.6.3
+>=dev-ruby/racc-1.4.7 ~amd64
+#required by dev-ruby/rubygems-1.8.11[ruby_targets_ruby19], required by virtual/rubygems-4, required by dev-ruby/rdoc-3.11[-test,ruby_targets_ruby19], required by dev-ruby/hoe-2.12.3[doc,ruby_targets_ruby19], required by dev-ruby/racc-1.4.7[doc,ruby_targets_ruby19]
+>=dev-lang/ruby-1.9.3_rc1 ~amd64
+#required by dev-ruby/rdoc-3.11[ruby_targets_ruby19], required by dev-lang/ruby-1.9.3_rc1[rdoc], required by dev-ruby/rubygems-1.8.11[ruby_targets_ruby19], required by virtual/rubygems-4, required by dev-ruby/rake-0.8.7-r6[-test,ruby_targets_ruby19], required by dev-ruby/racc-1.4.7[-test,doc,ruby_targets_ruby19]
+>=dev-ruby/json-1.6.3 ~amd64
+#required by dev-ruby/json-1.6.3[-test,doc,ruby_targets_ruby18], required by dev-ruby/rdoc-3.11[ruby_targets_ruby19], required by dev-lang/ruby-1.9.3_rc1[rdoc], required by dev-ruby/rubygems-1.8.11[ruby_targets_ruby19], required by virtual/rubygems-4, required by dev-ruby/racc-1.4.7
+=dev-ruby/rake-0.8.7-r6 ~amd64
+#required by dev-ruby/ruby-gio2-1.0.3[ruby_targets_ruby18], required by dev-ruby/ruby-gtk2-1.0.3[ruby_targets_ruby18], required by ruby-gtk2 (argument)
+>=dev-ruby/ruby-glib2-1.0.3 ~amd64
+#required by dev-ruby/ruby-gtk2-1.0.3[ruby_targets_ruby18], required by ruby-gtk2 (argument)
+>=dev-ruby/ruby-atk-1.0.3 ~amd64
+#required by dev-ruby/ruby-gtk2-1.0.3[ruby_targets_ruby18], required by ruby-gtk2 (argument)
+>=dev-ruby/ruby-gdkpixbuf2-1.0.3 ~amd64
+#required by dev-ruby/ruby-gtk2-1.0.3[ruby_targets_ruby19], required by ruby-gtk2 (argument)
+>=dev-ruby/ruby-pango-1.0.3 ~amd64
+#required by dev-ruby/ruby-gio2-1.0.3[ruby_targets_ruby19], required by dev-ruby/ruby-gtk2-1.0.3[ruby_targets_ruby18], required by ruby-gtk2 (argument)
+>=dev-ruby/pkg-config-1.1.2 ~amd64
+#required by dev-ruby/ruby-gtk2-1.0.3[ruby_targets_ruby18], required by ruby-gtk2 (argument)
+>=dev-ruby/ruby-gio2-1.0.3 ~amd64
+#required by dev-ruby/httpclient-2.2.4[ruby_targets_ruby19], required by net-misc/mikutter-0.0.4.592[ruby_targets_ruby19], required by mikutter (argument)
+>=virtual/ruby-ssl-1:ruby19 ~amd64
+#required by net-misc/mikutter-0.0.4.592[ruby_targets_ruby19], required by mikutter (argument)
+>=dev-ruby/httpclient-2.2.4 ~amd64
+#required by app-text/dvisvgm-1.0.10, required by app-text/texlive-2011[extra], required by @selected, required by @world (argument)
+>=media-gfx/potrace-1.10-r1 ~amd64
+#required by media-libs/mesa-7.11.2[llvm,gallium], required by kde-base/kwin-4.7.3[opengl], required by kde-base/kdebase-meta-4.7.3, required by kde-base/kde-meta-4.7.3, required by @selected, required by @world (argument)
+=sys-devel/llvm-3.0 ~amd64
+#required by gentwoo (argument)
+=app-portage/gentwoo-0.0.20120122 ~amd64
+#required by android-ndk (argument)
+=dev-util/android-ndk-5c ~amd64
+#required by gauche (argument)
+=dev-scheme/gauche-0.9.2 ~amd64
+#required by scheme48 (argument)
+=dev-scheme/scheme48-1.8-r2 ~amd64
+#required by dev-ruby/pry-0.9.7.4[ruby_targets_ruby18], required by pry (argument)
+=dev-ruby/method_source-0.7.0 ~amd64
+#required by dev-ruby/pry-0.9.7.4[ruby_targets_ruby18], required by pry (argument)
+=dev-ruby/slop-3.0.2 ~amd64
+#required by pry (argument)
+=dev-ruby/pry-0.9.7.4 ~amd64
+#required by dev-db/virtuoso-server-6.1.4, required by dev-libs/soprano-2.7.4[virtuoso], required by @selected, required by @world (argument)
+=sys-libs/zlib-1.2.6 ~amd64
+#required by sys-fs/udev-182-r2[openrc], required by udev (argument)
+=sys-fs/udev-init-scripts-10 ~amd64
+#required by sys-fs/udev-182-r2, required by sys-fs/udev-init-scripts-10
+=sys-apps/kmod-7 ~amd64
+#required by dev-libs/glib-2.30.3[-test,doc,-utils], required by www-client/firefox-10.0.3, required by @selected, required by @world (argument)
+=dev-util/gdbus-codegen-2.30.3 ~amd64
+#required by sys-fs/udev-182-r3[hwdb], required by media-sound/pulseaudio-1.1-r1[udev], required by @selected, required by @world (argument)
+=sys-apps/hwids-20120401 ~amd64
+#required by =sys-apps/usbutils-005-r1 (argument)
+=sys-apps/usbutils-005-r1 ~amd64
+#required by =sys-apps/pciutils-3.1.9-r2 (argument)
+=sys-apps/pciutils-3.1.9-r2 ~amd64
+#required by kdbg (argument)
+=dev-util/kdbg-2.5.1 ~amd64
+#required by dev-libs/glib-2.32.0[-test,doc,-utils], required by app-mobilephone/obexd-0.45, required by net-wireless/bluedevil-1.2.2, required by kde-base/solid-4.8.1[bluetooth], required by kde-base/kdebase-meta-4.8.1, required by kde-base/kde-meta-4.8.1, required by @selected, required by @world (argument)
+=dev-util/gdbus-codegen-2.32.0 ~amd64
+#required by conque (argument)
+=app-vim/conque-2.3 ~amd64
+#required by exfat-utils (argument)
+=sys-fs/exfat-utils-0.9.7 ~amd64
+#required by dev-libs/glib-2.32.2[-test,doc,-utils], required by app-emulation/vmware-workstation-8.0.3.703057, required by app-emulation/vmware-modules-264.3, required by @selected, required by @world (argument)
+=dev-util/gdbus-codegen-2.32.2 ~amd64
+#required by pdfgrep (argument)
+=app-text/pdfgrep-1.3.0 ~amd64
+#required by app-text/pdfgrep-1.3.0[unac], required by pdfgrep (argument)
+=app-text/unac-1.8.0 ~amd64
+#required by bluez-firmware (argument)
+# move net-wireless/bluez-firmware sys-firmware/bluez-firmware
+=sys-firmware/bluez-firmware-1.2 ~amd64
+#required by www-client/chromium-19.0.1084.46, required by @selected, required by @world (argument)
+=dev-libs/icu-49.1.1-r1 ~amd64
+#required by dev-libs/glib-2.32.3[-test,doc,-utils], required by kde-base/systemsettings-4.8.3, required by x11-themes/qtcurve-qt4-1.8.12[kde], required by @selected, required by @world (argument)
+=dev-util/gdbus-codegen-2.32.3 ~amd64
+#required by sys-auth/polkit-0.106-r2, required by sys-fs/udisks-1.0.4-r2, required by sys-apps/gnome-disk-utility-3.0.2-r200, required by gnome-base/gvfs-1.10.1[gdu], required by xfce-base/thunar-1.4.0[udev], required by xfce-base/xfdesktop-4.10.0[thunar], required by xfce-base/xfce4-meta-4.10, required by @selected, required by @world (argument)
+=dev-lang/spidermonkey-1.8.5-r1 ~amd64
+#required by sys-fs/udev-186[openrc], required by www-client/chromium-21.0.1180.49, required by @selected, required by @world (argument)
+=sys-fs/udev-init-scripts-12 ~amd64
+#required by dev-libs/glib-2.32.4[-test,doc,-utils], required by sys-fs/udev-186[gudev], required by www-client/chromium-21.0.1180.49, required by @selected, required by @world (argument)
+=dev-util/gdbus-codegen-2.32.4 ~amd64
+#required by sys-fs/udev-188[openrc], required by udev (argument)
+=sys-fs/udev-init-scripts-16 ~amd64
+#required by =net-wireless/bluez-4.101* (argument)
+=net-wireless/bluez-4.101-r2 ~amd64
+#required by app-text/texlive-2012[truetype], required by @selected, required by @world (argument)
+=app-text/ttf2pk2-1.5_p20120701 ~amd64
+#required by net-print/cups-1.6.1, required by app-admin/system-config-printer-common-1.3.11-r1, required by kde-base/printer-applet-4.8.3, required by kde-base/kdeutils-meta-4.8.3[cups], required by kde-base/kde-meta-4.8.3, required by @selected, required by @world (argument)
+=net-print/cups-filters-1.0.20 ~amd64

@@ -1,0 +1,4 @@
+cross-arm-linux-uclibc/binutils -selinux
+cross-arm-linux-uclibc/gcc -selinux -boundschecking -d -fortran -gtk -gcj -libffi -mudflap -objc -objc++ -objc-gc -openmp nocxx
+cross-arm-linux-uclibc/linux-headers -selinux
+cross-arm-linux-uclibc/uclibc -selinux

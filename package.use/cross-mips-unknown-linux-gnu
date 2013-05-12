@@ -1,0 +1,5 @@
+cross-mips-unknown-linux-gnu/binutils mudflap objc objc++ -gtk -selinux
+cross-mips-unknown-linux-gnu/mips-headers mudflap objc objc++ -gtk -selinux
+cross-mips-unknown-linux-gnu/glibc mudflap objc objc++ -gtk -selinux
+cross-mips-unknown-linux-gnu/gcc mudflap objc objc++ -gtk -selinux
+cross-mips-unknown-linux-gnu/gdb mudflap objc objc++ -gtk -selinux

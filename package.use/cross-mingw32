@@ -1,0 +1,4 @@
+cross-mingw32/binutils mudflap objc objc++ -gtk -selinux
+cross-mingw32/w32api mudflap objc objc++ -gtk -selinux
+cross-mingw32/mingw-runtime mudflap objc objc++ -gtk -selinux
+cross-mingw32/gcc mudflap objc objc++ -gtk -selinux

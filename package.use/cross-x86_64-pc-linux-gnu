@@ -1,0 +1,5 @@
+cross-x86_64-pc-linux-gnu/binutils -selinux
+cross-x86_64-pc-linux-gnu/linux-headers -selinux
+cross-x86_64-pc-linux-gnu/glibc -selinux
+cross-x86_64-pc-linux-gnu/gcc -selinux
+cross-x86_64-pc-linux-gnu/gdb -selinux

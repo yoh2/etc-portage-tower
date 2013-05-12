@@ -1,0 +1,4 @@
+cross-i686-freebsd/binutils amd64-fbsd ~amd64-fbsd
+cross-i686-freebsd/freebsd-lib amd64-fbsd ~amd64-fbsd
+cross-i686-freebsd/gcc * ~* -*
+cross-i686-freebsd/gdb amd64-fbsd ~amd64-fbsd

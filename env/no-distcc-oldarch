@@ -1,0 +1,5 @@
+FEATURES="${FEATURES} -distcc"
+MAKEOPTS="-j33"
+CFLAGS="-O3 -march=opteron -mtune=opteron -msse3 -pipe -ftree-vectorize -ftree-loop-optimize"
+CXXFLAGS="$CFLAGS"
+FFLAGS="$CFLAGS"

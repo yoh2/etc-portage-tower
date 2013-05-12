@@ -1,0 +1,3 @@
+cross-arm-linux-gnu/binutils -selinux -multilib
+cross-arm-linux-gnu/linux-headers -selinux -multilib
+cross-arm-linux-gnu/glibc -selinux -multilib

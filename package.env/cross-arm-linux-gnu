@@ -1,0 +1,5 @@
+cross-arm-linux-gnu/binutils cross-arm-linux-gnu/binutils.conf
+cross-arm-linux-gnu/gcc cross-arm-linux-gnu/gcc.conf
+cross-arm-linux-gnu/linux-headers cross-arm-linux-gnu/linux-headers.conf
+cross-arm-linux-gnu/glibc cross-arm-linux-gnu/glibc.conf
+cross-arm-linux-gnu/gdb cross-arm-linux-gnu/gdb.conf
