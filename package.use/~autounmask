@@ -23,3 +23,7 @@
 # required by @selected
 # required by @world (argument)
 >=media-libs/mesa-9.1.1 gles2
+# required by www-client/chromium-27.0.1453.81
+# required by @selected
+# required by @world (argument)
+=media-video/ffmpeg-1.0.7 opus

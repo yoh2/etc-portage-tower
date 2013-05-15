@@ -54,3 +54,18 @@
 # required by @selected
 # required by @world (argument)
 =sys-apps/kmod-13 ~amd64
+# required by @selected
+# required by @world (argument)
+=app-emulation/bochs-2.6 ~amd64
+# required by @selected
+# required by @world (argument)
+=sys-fs/exfat-utils-1.0.1 ~amd64
+# required by @selected
+# required by @world (argument)
+=dev-scheme/gauche-0.9.3.3 ~amd64
+# required by @selected
+# required by @world (argument)
+=dev-util/kdbg-2.5.3 ~amd64
+# required by @selected
+# required by @world (argument)
+=sys-fs/yaffs2-utils-9999 **
