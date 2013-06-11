@@ -69,3 +69,7 @@
 # required by @selected
 # required by @world (argument)
 =sys-fs/yaffs2-utils-9999 **
+# required by www-client/firefox-21.0
+# required by @selected
+# required by @world (argument)
+=dev-libs/nspr-4.9.6 ~amd64
