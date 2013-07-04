@@ -73,3 +73,12 @@
 # required by @selected
 # required by @world (argument)
 =dev-libs/nspr-4.9.6 ~amd64
+# required by www-client/firefox-22.0
+# required by @selected
+# required by @world (argument)
+=dev-libs/nss-3.15 ~amd64
+# required by dev-libs/nss-3.15
+# required by app-arch/rpm-4.11.0.1
+# required by @selected
+# required by @world (argument)
+=dev-libs/nspr-4.10 ~amd64
