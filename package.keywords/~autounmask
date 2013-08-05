@@ -103,3 +103,29 @@
 # required by net-analyzer/openvas-6
 # required by openvas (argument)
 =net-analyzer/openvas-scanner-3.4.0 ~amd64
+# required by sys-fs/udev-206[hwdb]
+# required by virtual/udev-206
+=sys-apps/hwids-20130717-r1 ~amd64
+# required by sys-fs/udev-206[kmod]
+# required by virtual/udev-206
+# required by sys-apps/hwids-20130717-r1[udev]
+=sys-apps/kmod-14-r1 ~amd64
+# required by dev-ruby/rake-0.9.6
+# required by dev-lang/ruby-2.0.0_p247-r1
+# required by dev-ruby/rubygems-2.0.3[ruby_targets_ruby19]
+# required by dev-lang/ruby-1.9.3_p448-r1
+# required by dev-ruby/json-1.8.0[ruby_targets_ruby19]
+# required by dev-ruby/rdoc-4.0.1-r1[ruby_targets_ruby19]
+# required by dev-ruby/racc-1.4.9[doc,ruby_targets_ruby19]
+=virtual/rubygems-6 ~amd64
+# required by media-libs/libcanberra-0.30-r1[udev,alsa]
+# required by kde-base/phonon-kde-4.10.5[pulseaudio]
+# required by kde-base/kdebase-meta-4.10.5
+# required by kde-base/kde-meta-4.10.5
+# required by @selected
+# required by @world (argument)
+=virtual/udev-206 ~amd64
+# required by dev-lang/ruby-2.0.0_p247-r1
+# required by dev-ruby/rubygems-2.0.3[ruby_targets_ruby19]
+# required by virtual/rubygems-6
+=dev-ruby/rake-0.9.6 ~amd64
