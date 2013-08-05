@@ -57,3 +57,10 @@
 # required by virtual/rubygems-6
 # required by dev-ruby/rake-0.9.6
 >=dev-ruby/rubygems-2.0.3 ruby_targets_ruby20
+# required by dev-ruby/rdoc-4.0.1-r1[ruby_targets_ruby20]
+# required by dev-ruby/rake-0.9.6[doc,ruby_targets_ruby20]
+# required by dev-ruby/json-1.8.0[-test,doc,ruby_targets_ruby18]
+# required by dev-lang/ruby-2.0.0_p247-r1
+# required by dev-ruby/rubygems-2.0.3[ruby_targets_ruby19]
+# required by virtual/rubygems-6
+>=dev-ruby/racc-1.4.9 ruby_targets_ruby20
