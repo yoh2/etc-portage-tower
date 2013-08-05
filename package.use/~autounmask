@@ -27,3 +27,7 @@
 # required by @selected
 # required by @world (argument)
 =media-video/ffmpeg-1.0.7 opus
+# required by net-analyzer/greenbone-security-assistant-4.0.1
+# required by net-analyzer/openvas-6
+# required by openvas (argument)
+>=net-libs/libmicrohttpd-0.9.27 messages
