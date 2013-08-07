@@ -7,6 +7,7 @@ app-arch/unzip		natspec
 app-arch/zip		natspec
 app-crypt/pyrit		opencl
 app-dicts/migemo-dict	-unicode
+app-doc/doxygen		dot
 app-doc/gimp-help	imagemagick
 app-doc/xorg-docs	-doc
 app-editors/vim		cscope ruby python vim-pager
