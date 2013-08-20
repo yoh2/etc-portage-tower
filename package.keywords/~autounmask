@@ -129,3 +129,35 @@
 # required by dev-ruby/rubygems-2.0.3[ruby_targets_ruby19]
 # required by virtual/rubygems-6
 =dev-ruby/rake-0.9.6 ~amd64
+# required by sys-apps/openrc-0.12[netifrc]
+# required by @selected
+# required by @world (argument)
+=net-misc/netifrc-0.1 ~amd64
+# required by media-libs/libass-0.10.1[harfbuzz]
+# required by media-video/mplayer2-2.0_p20130126[libass]
+# required by @selected
+# required by @world (argument)
+=media-libs/harfbuzz-0.9.18-r1 ~amd64
+# required by sys-auth/polkit-0.111-r1
+# required by sys-apps/systemd-204
+# required by virtual/udev-200
+# required by www-client/chromium-29.0.1547.41
+# required by @selected
+# required by @world (argument)
+=dev-lang/spidermonkey-17.0.0-r1 ~amd64
+# required by media-libs/harfbuzz-0.9.12
+# required by www-client/chromium-29.0.1547.41
+# required by @selected
+# required by @world (argument)
+=x11-libs/cairo-1.12.14-r4 ~amd64
+# required by app-text/texlive-2013[-linguas_hr,-linguas_is,-linguas_da,-linguas_sco,-linguas_hy,-linguas_nb,-linguas_fi,-linguas_cy,linguas_la,-linguas_br,-linguas_sr,-linguas_sq,-linguas_tr,-linguas_sv,-linguas_et,-linguas_hu,-linguas_nl,-linguas_nn,-linguas_no,-linguas_rm,-linguas_ro,-linguas_ga,-linguas_lv,-linguas_lt,-linguas_tk,-linguas_sl]
+# required by @selected
+# required by @world (argument)
+=dev-texlive/texlive-langeuropean-2013 ~amd64
+# required by gnome-base/gvfs-1.12.3-r1[udev]
+# required by xfce-base/thunar-1.6.2[udev]
+# required by xfce-base/xfdesktop-4.10.2[thunar]
+# required by xfce-base/xfce4-meta-4.10
+# required by @selected
+# required by @world (argument)
+=virtual/udev-206-r2 ~amd64
