@@ -303,6 +303,7 @@ sys-auth/consolekit			~amd64
 sys-auth/policykit			~amd64
 sys-auth/polkit				~amd64
 
+x11-drivers/ati-drivers		~amd64
 x11-apps/ati-drivers-extra	~amd64
 x11-apps/ccsm			~amd64
 =x11-apps/rgb-1.0.3*		~amd64
