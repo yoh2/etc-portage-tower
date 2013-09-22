@@ -105,7 +105,7 @@ media-video/vlc		aac bidi bl bindist cdparanoia -cpudetection dts dv dvb dvd dvd
 
 net-analyzer/nmap	gtk python
 net-analyzer/net-snmp	lm_sensors diskio elf mfd-rewrites
-net-analyzer/wireshark	gcrypt smi geoip portaudio python -gtk
+net-analyzer/wireshark	gcrypt smi geoip portaudio python -gtk -gtk2 -gtk3 qt4
 net-dns/avahi		mdnsresponder-compat autoipd
 net-firewall/ipsec-tools	idea rc5
 net-im/pidgin		gstreamer prediction
