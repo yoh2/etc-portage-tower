@@ -161,3 +161,42 @@
 # required by @selected
 # required by @world (argument)
 =virtual/udev-206-r2 ~amd64
+# required by media-libs/openjpeg-1.5.1
+# required by media-video/ffmpeg-1.2.3[jpeg2k]
+# required by media-video/vlc-2.0.7[postproc]
+# required by @selected
+# required by @world (argument)
+=sys-libs/zlib-1.2.8-r1 ~amd64
+# required by media-libs/lcms-2.5-r1[tiff]
+# required by app-text/ghostscript-gpl-9.10
+# required by net-print/cups-filters-1.0.36-r2
+# required by net-print/cups-1.6.3-r2
+# required by net-wireless/bluez-4.101-r6[cups]
+# required by app-emulation/qemu-1.5.3[bluetooth]
+# required by @selected
+# required by @world (argument)
+=media-libs/tiff-4.0.3-r5 ~amd64
+# required by app-editors/emacs-24.3-r2[X,png]
+# required by @selected
+# required by @world (argument)
+=media-libs/libpng-1.6.6 ~amd64
+# required by media-libs/openjpeg-1.5.1
+# required by media-video/ffmpeg-1.2.3[jpeg2k]
+# required by media-video/vlc-2.0.7[postproc]
+# required by @selected
+# required by @world (argument)
+=media-libs/lcms-2.5-r1 ~amd64
+# required by net-print/cups-filters-1.0.36-r2
+# required by net-print/cups-1.6.3-r2
+# required by net-wireless/bluez-4.101-r6[cups]
+# required by app-emulation/qemu-1.5.3[bluetooth]
+# required by @selected
+# required by @world (argument)
+=app-text/ghostscript-gpl-9.10 ~amd64
+# required by app-shells/bash-completion-1.3-r2
+# required by app-shells/gentoo-bashcomp-20121024
+=app-admin/eselect-bashcomp-1.3.6 ~amd64
+# required by dev-ruby/nokogiri-1.6.0::pentoo[ruby_targets_ruby19]
+# required by @selected
+# required by @world (argument)
+=dev-ruby/mini_portile-0.5.1 ~amd64

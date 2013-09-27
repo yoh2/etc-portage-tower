@@ -75,3 +75,18 @@
 # required by @selected
 # required by @world (argument)
 =media-video/ffmpeg-1.2.2 opus
+# required by sys-libs/tevent-0.9.19
+# required by net-fs/samba-3.6.16
+# required by media-video/vlc-2.0.7[samba]
+# required by @selected
+# required by @world (argument)
+>=sys-libs/talloc-2.1.0 python
+# required by kde-base/libkexiv2-4.10.5
+# required by kde-base/thumbnailers-4.10.5
+# required by kde-base/dolphin-4.10.5[thumbnail]
+# required by kde-base/mplayerthumbs-4.10.5
+# required by kde-base/kdemultimedia-meta-4.10.5[mplayer]
+# required by kde-base/kde-meta-4.10.5
+# required by @selected
+# required by @world (argument)
+>=media-gfx/exiv2-0.23-r1 xmp
