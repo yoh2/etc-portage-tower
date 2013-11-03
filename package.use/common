@@ -50,6 +50,7 @@ dev-python/PyQt4	webkit sql assistant xmlpatterns declarative
 dev-python/jinja	-doc
 dev-ruby/hoe		-doc
 dev-ruby/rodc		-doc
+dev-ruby/ruby-sdl	image mixer sge
 dev-util/ati-stream-sdk-bin examples
 dev-util/qdevelop	plugins
 dev-vcs/subversion	-dso python
