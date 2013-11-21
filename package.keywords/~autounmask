@@ -205,3 +205,203 @@
 # required by @selected
 # required by @world (argument)
 =dev-lang/orc-0.4.18 ~amd64
+# required by dev-haskell/wai-logger-0.3.1::gentoo-haskell
+# required by dev-haskell/wai-extra-1.3.4.5::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/byteorder-1.0.4 ~amd64
+# required by dev-haskell/wai-extra-1.3.4.5::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/word8-0.0.4 ~amd64
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/yesod-persistent-1.2.1 ~amd64
+# required by dev-haskell/monad-logger-0.3.2.0::gentoo-haskell
+# required by dev-haskell/yesod-core-1.2.4.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/stm-chans-3.0.0 ~amd64
+# required by dev-haskell/yesod-auth-1.2.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/yesod-form-1.3.2.2 ~amd64
+# required by dev-haskell/yesod-core-1.2.4.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/wai-extra-1.3.4.5 ~amd64
+# required by dev-haskell/yesod-form-1.3.2.2::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/xss-sanitize-0.3.4 ~amd64
+# required by dev-haskell/monad-logger-0.3.2.0::gentoo-haskell
+# required by dev-haskell/yesod-core-1.2.4.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/monad-loops-0.4.2 ~amd64
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/shakespeare-css-1.0.6.3 ~amd64
+# required by dev-haskell/clientsession-0.9.0.3::gentoo-haskell
+# required by dev-haskell/yesod-core-1.2.4.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/skein-1.0.6-r1 ~amd64
+# required by dev-haskell/yesod-core-1.2.4.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/clientsession-0.9.0.3 ~amd64
+# required by dev-haskell/skein-1.0.6-r1::gentoo-haskell
+# required by dev-haskell/clientsession-0.9.0.3::gentoo-haskell
+# required by dev-haskell/yesod-core-1.2.4.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/tagged-0.7 ~amd64
+# required by dev-haskell/pwstore-fast-2.4.1::gentoo-haskell
+# required by dev-haskell/yesod-auth-1.2.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/sha-1.6.1 ~amd64
+# required by dev-haskell/yesod-core-1.2.4.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/yesod-routes-1.2.0.1 ~amd64
+# required by dev-haskell/pool-conduit-0.1.2::gentoo-haskell
+# required by dev-haskell/yesod-persistent-1.2.1::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/resource-pool-0.2.1.1 ~amd64
+# required by dev-haskell/yesod-core-1.2.4.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/monad-logger-0.3.2.0 ~amd64
+# required by dev-haskell/yesod-auth-1.2.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/pwstore-fast-2.4.1 ~amd64
+# required by dev-haskell/yesod-auth-1.2.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/puremd5-2.1.2.1 ~amd64
+# required by dev-haskell/clientsession-0.9.0.3::gentoo-haskell
+# required by dev-haskell/yesod-core-1.2.4.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/entropy-0.2.2.2 ~amd64
+# required by dev-haskell/yesod-persistent-1.2.1::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/yesod-core-1.2.4.3 ~amd64
+# required by dev-haskell/xss-sanitize-0.3.4::gentoo-haskell
+# required by dev-haskell/yesod-form-1.3.2.2::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/css-text-0.1.1-r1 ~amd64
+# required by dev-haskell/yesod-form-1.3.2.2::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/crypto-api-0.12.2.2 ~amd64
+# required by dev-haskell/wai-extra-1.3.4.5::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/wai-logger-0.3.1 ~amd64
+# required by dev-haskell/yesod-auth-1.2.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/safe-0.3.3-r1 ~amd64
+# required by dev-haskell/yesod-auth-1.2.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/file-embed-0.0.4.9 ~amd64
+# required by dev-haskell/yesod-persistent-1.2.1::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/persistent-template-1.2.0.2 ~amd64
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/yesod-auth-1.2.3 ~amd64
+# required by dev-haskell/shakespeare-js-1.2.0::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/shakespeare-1.2.0 ~amd64
+# required by dev-haskell/yesod-auth-1.2.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/authenticate-1.3.2.6 ~amd64
+# required by dev-haskell/wai-extra-1.3.4.5::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/stringsearch-0.3.6.4 ~amd64
+# required by dev-haskell/xml-conduit-1.1.0.7::gentoo-haskell
+# required by dev-haskell/authenticate-1.3.2.6::gentoo-haskell
+# required by dev-haskell/yesod-auth-1.2.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/attoparsec-conduit-1.0.1.2 ~amd64
+# required by yesod (argument)
+=dev-haskell/yesod-1.2.2.1 ~amd64
+# required by dev-haskell/yesod-form-1.3.2.2::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/hamlet-1.1.7.3 ~amd64
+# required by dev-haskell/persistent-1.2.3.0::gentoo-haskell
+# required by dev-haskell/yesod-form-1.3.2.2::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/pool-conduit-0.1.2 ~amd64
+# required by dev-haskell/yesod-auth-1.2.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/email-validate-1.0.0 ~amd64
+# required by dev-haskell/persistent-template-1.2.0.2::gentoo-haskell
+# required by dev-haskell/yesod-auth-1.2.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/persistent-1.2.3.0 ~amd64
+# required by dev-haskell/yesod-core-1.2.4.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/shakespeare-i18n-1.0.0.4 ~amd64
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/shakespeare-js-1.2.0 ~amd64
+# required by dev-haskell/wai-extra-1.3.4.5::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/date-cache-0.3.0-r1 ~amd64
+# required by dev-haskell/wai-logger-0.3.1::gentoo-haskell
+# required by dev-haskell/wai-extra-1.3.4.5::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/fast-logger-0.3.3 ~amd64
+# required by dev-haskell/xml-conduit-1.1.0.7::gentoo-haskell
+# required by dev-haskell/authenticate-1.3.2.6::gentoo-haskell
+# required by dev-haskell/yesod-auth-1.2.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/xml-types-0.3.4 ~amd64
+# required by dev-haskell/authenticate-1.3.2.6::gentoo-haskell
+# required by dev-haskell/yesod-auth-1.2.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/xml-conduit-1.1.0.7 ~amd64
+# required by dev-haskell/yesod-routes-1.2.0.1::gentoo-haskell
+# required by dev-haskell/yesod-core-1.2.4.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/path-pieces-0.1.3 ~amd64
+# required by dev-haskell/fast-logger-0.3.3::gentoo-haskell
+# required by dev-haskell/monad-logger-0.3.2.0::gentoo-haskell
+# required by dev-haskell/yesod-core-1.2.4.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/unix-time-0.2.1 ~amd64
+# required by dev-haskell/yesod-auth-1.2.3::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/mime-mail-0.4.2.1 ~amd64
+# required by dev-haskell/shakespeare-1.2.0::gentoo-haskell
+# required by dev-haskell/shakespeare-js-1.2.0::gentoo-haskell
+# required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
+# required by yesod (argument)
+=dev-haskell/system-fileio-0.3.11 ~amd64
