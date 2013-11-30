@@ -405,3 +405,16 @@
 # required by dev-haskell/yesod-1.2.2.1::gentoo-haskell
 # required by yesod (argument)
 =dev-haskell/system-fileio-0.3.11 ~amd64
+# required by cabal-dev (argument)
+=dev-haskell/cabal-dev-0.9.2 ~amd64
+# required by dev-haskell/cabal-dev-0.9.2::gentoo-haskell[-no-cabal-dev]
+# required by cabal-dev (argument)
+=dev-haskell/cabal-install-1.18.0.2 ~amd64
+# required by dev-haskell/cabal-install-1.18.0.2
+# required by dev-haskell/cabal-dev-0.9.2::gentoo-haskell[-no-cabal-dev]
+# required by cabal-dev (argument)
+=dev-haskell/cabal-1.18.1.2 ~amd64
+# required by www-client/firefox-25.0.1
+# required by @selected
+# required by @world (argument)
+=dev-libs/nspr-4.10.2 ~amd64
