@@ -90,3 +90,7 @@
 # required by @selected
 # required by @world (argument)
 >=media-gfx/exiv2-0.23-r1 xmp
+# required by www-client/chromium-32.0.1700.19
+# required by @selected
+# required by @world (argument)
+=media-libs/harfbuzz-0.9.23 icu
