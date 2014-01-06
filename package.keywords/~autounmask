@@ -418,3 +418,22 @@
 # required by @selected
 # required by @world (argument)
 =dev-libs/nspr-4.10.2 ~amd64
+# required by dev-ruby/rake-0.9.6-r1[-test,ruby_targets_ruby21]
+# required by dev-lang/ruby-2.0.0_p353-r1
+# required by dev-ruby/racc-1.4.10[ruby_targets_ruby20]
+# required by dev-ruby/rdoc-4.0.1-r2[ruby_targets_ruby19]
+# required by dev-lang/ruby-2.1.0[rdoc]
+# required by dev-ruby/json-1.8.1[ruby_targets_ruby21]
+# required by net-misc/mikutter-0.2.2.1410[ruby_targets_ruby19]
+# required by @selected
+# required by @world (argument)
+=virtual/rubygems-7 ~amd64
+# required by dev-lang/ruby-2.0.0_p353-r1
+# required by dev-ruby/racc-1.4.10[ruby_targets_ruby20]
+# required by dev-ruby/rdoc-4.0.1-r2[ruby_targets_ruby19]
+# required by dev-lang/ruby-2.1.0[rdoc]
+# required by dev-ruby/json-1.8.1[ruby_targets_ruby21]
+# required by net-misc/mikutter-0.2.2.1410[ruby_targets_ruby19]
+# required by @selected
+# required by @world (argument)
+=dev-ruby/rake-0.9.6-r1 ~amd64
