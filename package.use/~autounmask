@@ -44,10 +44,6 @@
 # required by virtual/rubygems-6
 # required by dev-ruby/rake-0.9.6
 >=dev-ruby/rdoc-4.0.1-r1 ruby_targets_ruby20
-# required by sys-devel/clang-3.3-r100
-# required by @selected
-# required by @world (argument)
-=sys-devel/llvm-3.3-r1 clang
 # required by dev-lang/ruby-2.0.0_p247-r1
 # required by dev-ruby/rubygems-2.0.3[ruby_targets_ruby19]
 # required by virtual/rubygems-6

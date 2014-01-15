@@ -135,6 +135,7 @@ sys-apps/qtparted	jfs ntfs reiserfs xfs
 sys-auth/pambase	consolekit
 sys-block/gparted	fat hfs jfs ntfs reiser4 reiserfs xfs
 sys-cluster/openmpi	romio
+sys-devel/llvm		clang
 sys-devel/llvm-gcc	fortran objc objc++
 sys-devel/gcc		gcj d c++ fortran ada objc objc++ hardened mudflap
 =sys-devel/gcc-4.1.2	-d
