@@ -437,3 +437,11 @@
 # required by @selected
 # required by @world (argument)
 =dev-ruby/rake-0.9.6-r1 ~amd64
+# required by net-misc/mikutter-0.2.2.1430[ruby_targets_ruby19]
+# required by @selected
+# required by @world (argument)
+=dev-ruby/ruby-hmac-0.4.0-r1 ~amd64
+# required by net-misc/mikutter-0.2.2.1430[ruby_targets_ruby19]
+# required by @selected
+# required by @world (argument)
+=dev-ruby/json_pure-1.8.1 ~amd64
