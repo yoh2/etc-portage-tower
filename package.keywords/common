@@ -33,10 +33,9 @@ media-video/xanim-export	**
 
 =sys-block/thin-provisioning-tools-0.1.5* ~amd64
 sys-boot/grub			~amd64
-sys-devel/llvm ~amd64
-sys-devel/llvm ~amd64
-sys-devel/clang ~amd64
 =sys-fs/lvm2-2.02.97	~amd64
+sys-devel/clang		~amd64
+sys-devel/llvm		~amd64
 sys-fs/udev-init-scripts	~amd64
 =sys-power/cpufreqd-2.4.2-r2	~amd64
 sys-devel/gcc:4.7	~amd64
@@ -418,7 +417,6 @@ x11-wm/heliodor			~amd64
 #required by app-text/dvisvgm-1.0.10, required by app-text/texlive-2011[extra], required by @selected, required by @world (argument)
 >=media-gfx/potrace-1.10-r1 ~amd64
 #required by media-libs/mesa-7.11.2[llvm,gallium], required by kde-base/kwin-4.7.3[opengl], required by kde-base/kdebase-meta-4.7.3, required by kde-base/kde-meta-4.7.3, required by @selected, required by @world (argument)
-=sys-devel/llvm-3.0 ~amd64
 #required by gentwoo (argument)
 =app-portage/gentwoo-0.0.20120122 ~amd64
 #required by android-ndk (argument)
