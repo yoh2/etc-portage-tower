@@ -17,6 +17,7 @@ media-fonts/takao-fonts		~amd64
 media-libs/win32codecs	~amd64
 =media-libs/alsa-lib-1.0.14a ~amd64
 media-libs/libmtp		~amd64
+=media-libs/libvps-1.3.0	~amd64
 media-libs/libwebp		~amd64
 =media-libs/mesa-7*		~amd64
 =media-libs/mesa-8.0.3-r1	~amd64
@@ -151,7 +152,6 @@ dev-ruby/mecab-ruby		~amd64
 dev-ruby/rcairo			~amd64
 dev-ruby/rdoc			~amd64
 dev-ruby/ruby-gtk2		~amd64
-dev-ruby/rubygems		~amd64
 dev-vcs/gti			**
 
 dev-tex/bibtexu			~amd64
@@ -278,7 +278,8 @@ sci-misc/kboincspy	~amd64
 sys-apps/edac-utils			~amd64
 sys-apps/hwloc				~amd64
 sys-apps/iproute2			~amd64
-sys-apps/openrc				~amd64
+sys-apps/msr-tools			~amd64
+sy-apps/openrc				~amd64
 =sys-apps/portage-2.2_rc11		~amd64
 =sys-apps/sandbox-1.3.2			~amd64
 =sys-apps/tomoyo-tools-2.5*		~amd64
@@ -386,18 +387,6 @@ x11-wm/heliodor			~amd64
 >=media-libs/gstreamer-0.10.35 ~amd64
 #required by media-plugins/gst-plugins-meta-0.10-r5, required by net-im/pidgin-2.9.0[gstreamer], required by @selected, required by @world (argument)
 >=media-libs/gst-plugins-base-0.10.35 ~amd64
-#required by =virtual/rubygems-4 (argument)
->=virtual/rubygems-4:ruby19 ~amd64
-#required by dev-ruby/rdoc-3.11[-test,doc,ruby_targets_ruby18], required by dev-lang/ruby-1.9.3_rc1[rdoc], required by dev-ruby/rubygems-1.8.11[ruby_targets_ruby19], required by virtual/rubygems-4, required by dev-ruby/json-1.6.3
->=dev-ruby/hoe-2.12.3 ~amd64
-#required by dev-ruby/rdoc-3.11[ruby_targets_ruby18], required by dev-lang/ruby-1.9.3_rc1[rdoc], required by dev-ruby/rubygems-1.8.11[ruby_targets_ruby19], required by virtual/rubygems-4, required by dev-ruby/json-1.6.3
->=dev-ruby/racc-1.4.7 ~amd64
-#required by dev-ruby/rubygems-1.8.11[ruby_targets_ruby19], required by virtual/rubygems-4, required by dev-ruby/rdoc-3.11[-test,ruby_targets_ruby19], required by dev-ruby/hoe-2.12.3[doc,ruby_targets_ruby19], required by dev-ruby/racc-1.4.7[doc,ruby_targets_ruby19]
->=dev-lang/ruby-1.9.3_rc1 ~amd64
-#required by dev-ruby/rdoc-3.11[ruby_targets_ruby19], required by dev-lang/ruby-1.9.3_rc1[rdoc], required by dev-ruby/rubygems-1.8.11[ruby_targets_ruby19], required by virtual/rubygems-4, required by dev-ruby/rake-0.8.7-r6[-test,ruby_targets_ruby19], required by dev-ruby/racc-1.4.7[-test,doc,ruby_targets_ruby19]
->=dev-ruby/json-1.6.3 ~amd64
-#required by dev-ruby/json-1.6.3[-test,doc,ruby_targets_ruby18], required by dev-ruby/rdoc-3.11[ruby_targets_ruby19], required by dev-lang/ruby-1.9.3_rc1[rdoc], required by dev-ruby/rubygems-1.8.11[ruby_targets_ruby19], required by virtual/rubygems-4, required by dev-ruby/racc-1.4.7
-=dev-ruby/rake-0.8.7-r6 ~amd64
 #required by dev-ruby/ruby-gio2-1.0.3[ruby_targets_ruby18], required by dev-ruby/ruby-gtk2-1.0.3[ruby_targets_ruby18], required by ruby-gtk2 (argument)
 >=dev-ruby/ruby-glib2-1.0.3 ~amd64
 #required by dev-ruby/ruby-gtk2-1.0.3[ruby_targets_ruby18], required by ruby-gtk2 (argument)

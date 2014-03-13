@@ -18,7 +18,7 @@ app-emulation/vmware-tools	vmware_guest_freebsd vmware_guest_linux vmware_guest_
 app-emulation/vmware-workstation	vix vmware-tools
 app-emulation/wine	glut -arts -esd alsa jack -nas -oss dbus hal -win64
 app-i18n/skk-jisyo	cdb
-app-i18n/uim		libedit libffi prime xft skk
+app-i18n/uim		libedit libffi xft skk
 app-misc/screen		nethack -multiuser
 app-misc/strigi		clucene xml
 app-office/libreoffice	binfilter odk templates offlinehelp -nsplugin
@@ -49,11 +49,12 @@ dev-libs/cyrus-sasl	-ldap -berkdb
 dev-python/PyQt4	webkit sql assistant xmlpatterns declarative
 dev-python/jinja	-doc
 dev-ruby/hoe		-doc
+dev-ruby/mini_portile	-doc
 dev-ruby/rodc		-doc
 dev-ruby/ruby-sdl	image mixer sge
 dev-util/ati-stream-sdk-bin examples
 dev-util/qdevelop	plugins
-dev-vcs/subversion	-dso python
+dev-vcs/subversion	-dso python -ruby
 
 mail-mta/ssmtp		mailwrapper md5sum
 

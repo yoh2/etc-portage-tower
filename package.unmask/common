@@ -545,27 +545,6 @@ kde-base/kdetoys-meta:4
 # slotmove kde-base/kdeutils-meta 4.3 4
 kde-base/kdeutils-meta:4
 kde-base/kdewebdev-meta:4.3
-#required by =dev-lang/ruby-1.9.2* (argument)
-# /usr/portage/profiles/package.mask:
-# Alex Legler <a3li@gentoo.org> (20 Mar 2009)
-# Ruby 1.9 for preliminary testing of libraries depending on it, bug 203706.
-# Expect (some) breakages and incompatibilities.
-# Want to help testing? #gentoo-ruby on Freenode
-dev-lang/ruby:1.9
-#required by =virtual/rubygems-4 (argument)
-# /usr/portage/profiles/package.mask:
-# Alex Legler <a3li@gentoo.org> (20 Mar 2009)
-# Ruby 1.9 for preliminary testing of libraries depending on it, bug 203706.
-# Expect (some) breakages and incompatibilities.
-# Want to help testing? #gentoo-ruby on Freenode
->=virtual/rubygems-4:ruby19
-#required by dev-ruby/httpclient-2.2.4[ruby_targets_ruby19], required by net-misc/mikutter-0.0.4.592[ruby_targets_ruby19], required by mikutter (argument)
-# /usr/portage/profiles/package.mask:
-# Alex Legler <a3li@gentoo.org> (20 Mar 2009)
-# Ruby 1.9 for preliminary testing of libraries depending on it, bug 203706.
-# Expect (some) breakages and incompatibilities.
-# Want to help testing? #gentoo-ruby on Freenode
->=virtual/ruby-ssl-1:ruby19
 #required by dev-libs/m17n-lib-1.6.3-r1[spell], required by app-i18n/uim-1.7.3[m17n-lib], required by @selected, required by @world (argument)
 # /usr/portage/profiles/package.mask:
 # Pacho Ramos <pacho@gentoo.org> (16 Jun 2012)
