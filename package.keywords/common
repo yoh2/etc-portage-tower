@@ -43,7 +43,6 @@ sys-devel/gcc:4.7	~amd64
 
 =sys-devel/gcc-3.2	~amd64
 =virtual/jdk-1.5*	~amd64
-=www-client/firefox-2*	~amd64
 x11-libs/libview	~amd64
 x11-libs/libvdpau		~amd64
 >=app-admin/eselect-1.0.9	~amd64
@@ -426,8 +425,6 @@ x11-wm/heliodor			~amd64
 =sys-fs/udev-init-scripts-10 ~amd64
 #required by sys-fs/udev-182-r2, required by sys-fs/udev-init-scripts-10
 =sys-apps/kmod-7 ~amd64
-#required by dev-libs/glib-2.30.3[-test,doc,-utils], required by www-client/firefox-10.0.3, required by @selected, required by @world (argument)
-=dev-util/gdbus-codegen-2.30.3 ~amd64
 #required by sys-fs/udev-182-r3[hwdb], required by media-sound/pulseaudio-1.1-r1[udev], required by @selected, required by @world (argument)
 =sys-apps/hwids-20120401 ~amd64
 #required by =sys-apps/usbutils-005-r1 (argument)
