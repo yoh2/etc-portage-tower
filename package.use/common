@@ -84,7 +84,7 @@ media-libs/jpeg		static-libs
 media-libs/lcms		static-libs python
 media-libs/libpng	static-libs
 media-libs/libvorbis	aotuv
-media-libs/mesa		gles pic g3d g3dvl gles openvg vdpau xa llvm osmesa gbm
+media-libs/mesa		gles pic g3d g3dvl gles openvg vdpau xa llvm osmesa gbm llvm-shared-libs
 media-libs/opencv	xine octave examples
 media-libs/sdl-mixer	timidity midi fluidsynth mikmod playtools mod
 media-libs/urt		gs
