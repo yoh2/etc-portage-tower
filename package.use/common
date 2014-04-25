@@ -22,6 +22,7 @@ app-i18n/uim		libedit libffi xft skk
 app-misc/screen		nethack -multiuser
 app-misc/strigi		clucene xml
 app-office/libreoffice	binfilter odk templates offlinehelp -nsplugin
+app-office/akonadi-server	soprano
 app-text/docbook-sgml-utils	jadetex
 app-text/ghostscript-gpl	bindist djvu
 app-text/pdfgrep	unac
