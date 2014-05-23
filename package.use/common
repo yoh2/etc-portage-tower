@@ -54,6 +54,7 @@ dev-ruby/mini_portile	-doc
 dev-ruby/rodc		-doc
 dev-ruby/ruby-sdl	image mixer sge
 dev-util/ati-stream-sdk-bin examples
+dev-util/google-perftools	largepages
 dev-util/qdevelop	plugins
 dev-vcs/subversion	-dso python -ruby
 
