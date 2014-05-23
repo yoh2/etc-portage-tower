@@ -1,11 +1,5 @@
 =app-cdr/konqburn-1.0
 
-=app-emulation/vmware-modules-238
-=app-emulation/vmware-modules-238.2
-=app-emulation/vmware-modules-1.0.0*
-=app-emulation/vmware-workstation-6.0.0.45731
-=app-emulation/vmware-workstation-6*
-
 dev-lang/dmd-bin
 dev-ruby/rdoc
 dev-vcs/gti
