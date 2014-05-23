@@ -1,2 +1,2 @@
-# required by =chrome-binary-plugins-36* (argument)
-=www-plugins/chrome-binary-plugins-36.0.1985.18_alpha1 google-chrome
+# required by =chrome-binary-plugins-9999* (argument)
+>=www-plugins/chrome-binary-plugins-9999 google-chrome

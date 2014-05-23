@@ -6,9 +6,9 @@
 # A more recent source build maintained by the community is available in the
 # seden overlay. A more recent binary is available in the java-overlay.
 =dev-util/eclipse-sdk-3.5.1-r1
-# required by =chrome-binary-plugins-36* (argument)
+# required by =chrome-binary-plugins-9999* (argument)
 # /usr/portage/profiles/package.mask:
 # Mike Gilbert <floppym@gentoo.org> (04 Mar 2014)
 # Dev channel releases are only for people who are developers or want more
 # experimental features and accept a more unstable release.
-=www-plugins/chrome-binary-plugins-36.0.1985.18_alpha1
+=www-plugins/chrome-binary-plugins-9999
