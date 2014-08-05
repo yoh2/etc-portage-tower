@@ -451,3 +451,153 @@
 =sys-apps/hwids-20140304 ~amd64
 # required by =chrome-binary-plugins-9999* (argument)
 =www-plugins/chrome-binary-plugins-9999 **
+# required by media-libs/libwebp-0.4.0
+# required by www-client/chromium-36.0.1985.103
+# required by @selected
+# required by @world (argument)
+=media-libs/giflib-4.2.3-r1 ~amd64
+# required by media-video/vlc-2.1.2[libsamplerate]
+# required by @selected
+# required by @world (argument)
+=media-libs/libsamplerate-0.1.8-r1 ~amd64
+# required by media-plugins/alsa-plugins-1.0.27-r1
+# required by media-sound/pulseaudio-5.0-r2[alsa]
+# required by media-video/ffmpeg-2.2.4[pulseaudio]
+# required by media-video/vlc-2.1.2[postproc]
+# required by @selected
+# required by @world (argument)
+=media-libs/speex-1.2_rc1-r2 ~amd64
+# required by dev-libs/newt-0.52.12
+# required by sys-block/partimage-0.6.9[-static]
+# required by @selected
+# required by @world (argument)
+=sys-libs/slang-2.2.4-r1 ~amd64
+# required by net-libs/neon-0.30.0[kerberos]
+# required by app-office/libreoffice-4.2.5.2[webdav]
+# required by @selected
+# required by @world (argument)
+=virtual/krb5-0-r1 ~amd64
+# required by app-crypt/mit-krb5-1.12.1-r1
+# required by virtual/krb5-0-r1
+# required by net-misc/curl-7.37.0-r1[kerberos]
+# required by app-crypt/gnupg-2.0.25[-static]
+# required by app-crypt/gpgme-1.5.0
+# required by kde-base/kleopatra-4.12.5
+# required by kde-base/kdepim-meta-4.12.5
+# required by kde-base/kde-meta-4.12.5[semantic-desktop]
+# required by @selected
+# required by @world (argument)
+=sys-libs/e2fsprogs-libs-1.42.10 ~amd64
+# required by media-plugins/gst-plugins-faad-0.10.23-r1
+# required by media-plugins/gst-plugins-meta-0.10-r8[aac]
+# required by www-client/firefox-24.6.0[gstreamer]
+# required by @selected
+# required by @world (argument)
+=media-libs/faad2-2.7-r3 ~amd64
+# required by media-libs/imlib2-1.4.5-r1
+# required by media-libs/libcaca-0.99_beta17[imlib]
+# required by media-video/vlc-2.1.2[libcaca]
+# required by @selected
+# required by @world (argument)
+=media-libs/freetype-2.5.3-r1 ~amd64
+# required by virtual/krb5-0-r1
+# required by net-misc/curl-7.37.0-r1[kerberos]
+# required by app-crypt/gnupg-2.0.25[-static]
+# required by app-crypt/gpgme-1.5.0
+# required by kde-base/kleopatra-4.12.5
+# required by kde-base/kdepim-meta-4.12.5
+# required by kde-base/kde-meta-4.12.5[semantic-desktop]
+# required by @selected
+# required by @world (argument)
+=app-crypt/mit-krb5-1.12.1-r1 ~amd64
+# required by dev-libs/apr-util-1.5.3-r1[ldap]
+# required by dev-vcs/subversion-1.7.14
+# required by app-crypt/cpyrit_opencl-0.4.0-r2::pentoo
+# required by app-crypt/pyrit-0.4.0-r1::pentoo[opencl]
+# required by @selected
+# required by @world (argument)
+=net-nds/openldap-2.4.38-r2 ~amd64
+# required by media-video/ffmpeg-2.2.4[ieee1394]
+# required by media-video/vlc-2.1.2[postproc]
+# required by @selected
+# required by @world (argument)
+=media-libs/libdc1394-2.2.1 ~amd64
+# required by net-libs/neon-0.30.0[nls]
+# required by app-office/libreoffice-4.2.5.2[webdav]
+# required by @selected
+# required by @world (argument)
+=virtual/libintl-0-r1 ~amd64
+# required by dev-db/virtuoso-odbc-6.1.8
+# required by dev-db/virtuoso-server-6.1.8
+# required by dev-libs/soprano-2.9.4[virtuoso]
+# required by kde-base/kdelibs-4.12.5-r1[semantic-desktop]
+# required by kde-base/okular-4.12.5-r1[handbook]
+# required by kde-base/kdegraphics-meta-4.12.5
+# required by kde-base/kde-meta-4.12.5
+# required by @selected
+# required by @world (argument)
+=dev-libs/openssl-1.0.1h-r2 ~amd64
+# required by media-video/vlc-2.1.2[modplug]
+# required by @selected
+# required by @world (argument)
+=media-libs/libmodplug-0.8.8.4-r1 ~amd64
+# required by media-video/ffmpeg-2.2.4[encode,aac]
+# required by media-video/vlc-2.1.2[postproc]
+# required by @selected
+# required by @world (argument)
+=media-libs/vo-aacenc-0.1.3 ~amd64
+# required by media-libs/imlib2-1.4.6-r2[mp3]
+# required by media-libs/libcaca-0.99_beta18-r2[imlib]
+# required by media-video/ffmpeg-2.2.4[libcaca]
+# required by media-video/vlc-2.1.2[postproc]
+# required by @selected
+# required by @world (argument)
+=media-libs/libid3tag-0.15.1b-r4 ~amd64
+# required by x11-libs/libXfont-1.4.8-r1
+# required by x11-base/xorg-server-1.15.0
+# required by x11-drivers/ati-drivers-14.6_beta1
+# required by app-crypt/cpyrit_opencl-0.4.0-r2::pentoo
+# required by app-crypt/pyrit-0.4.0-r1::pentoo[opencl]
+# required by @selected
+# required by @world (argument)
+=x11-proto/fontsproto-2.1.3 ~amd64
+# required by app-crypt/mit-krb5-1.12.1-r1[keyutils]
+# required by virtual/krb5-0-r1
+# required by net-misc/curl-7.37.0-r1[kerberos]
+# required by app-crypt/gnupg-2.0.25[-static]
+# required by app-crypt/gpgme-1.5.0
+# required by kde-base/kleopatra-4.12.5
+# required by kde-base/kdepim-meta-4.12.5
+# required by kde-base/kde-meta-4.12.5[semantic-desktop]
+# required by @selected
+# required by @world (argument)
+=sys-apps/keyutils-1.5.9-r1 ~amd64
+# required by media-libs/libcaca-0.99_beta18-r2[imlib]
+# required by media-video/ffmpeg-2.2.4[libcaca]
+# required by media-video/vlc-2.1.2[postproc]
+# required by @selected
+# required by @world (argument)
+=media-libs/imlib2-1.4.6-r2 ~amd64
+# required by media-video/vlc-2.1.2[libcaca]
+# required by @selected
+# required by @world (argument)
+=media-libs/libcaca-0.99_beta18-r2 ~amd64
+# required by media-video/vlc-2.1.2[jack]
+# required by @selected
+# required by @world (argument)
+=media-sound/jack-audio-connection-kit-0.121.3-r1 ~amd64
+# required by media-video/ffmpeg-2.2.4[encode,xvid]
+# required by media-video/vlc-2.1.2[postproc]
+# required by @selected
+# required by @world (argument)
+=media-libs/xvid-1.3.3 ~amd64
+# required by sys-libs/slang-2.2.4-r1[cjk]
+# required by media-libs/libcaca-0.99_beta18-r2[slang]
+# required by media-video/ffmpeg-2.2.4[libcaca]
+# required by media-video/vlc-2.1.2[postproc]
+# required by @selected
+# required by @world (argument)
+=dev-libs/oniguruma-5.9.5 ~amd64
+# required by @selected
+# required by @world (argument)
+=dev-util/android-ndk-9d ~amd64
