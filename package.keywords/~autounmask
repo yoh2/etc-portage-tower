@@ -601,3 +601,8 @@
 # required by @selected
 # required by @world (argument)
 =dev-util/android-ndk-9d ~amd64
+# required by sys-libs/pam-1.1.8-r2[nis]
+# required by virtual/pam-0-r1
+# required by kde-base/kdm-4.11.9-r1
+# required by kdm (argument)
+=net-libs/libtirpc-0.2.4-r2 ~amd64
