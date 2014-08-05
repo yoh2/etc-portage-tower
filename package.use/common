@@ -5,6 +5,7 @@ app-arch/libarchive	lzma
 app-arch/p7zip		-wxwidgets -kde
 app-arch/unzip		natspec
 app-arch/zip		natspec
+app-crypt/mit-krb5	-kpinit
 app-crypt/pyrit		opencl
 app-dicts/migemo-dict	-unicode
 app-doc/doxygen		dot
