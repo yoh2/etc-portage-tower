@@ -1,6 +1,0 @@
-cross-arm-linux-gnueabi/binutils arm -amd64 -~amd64
-cross-arm-linux-gnueabi/gcc arm -amd64 -~amd64
-cross-arm-linux-gnueabi/linux-headers arm -amd64 -~amd64
-cross-arm-linux-gnueabi/glibc arm -amd64 -~amd64
-cross-arm-linux-gnueabi/gdb arm ~arm -amd64 -~amd64
-cross-arm-linux-gnueabi/insight arm ~arm -amd64 -~amd64

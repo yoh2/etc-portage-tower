@@ -1,0 +1,3 @@
+app-emulation/qemu		numa pulseaudio systemtap
+
+media-plugins/alsa-plugins	pulseaudio

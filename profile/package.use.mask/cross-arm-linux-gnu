@@ -1,5 +1,0 @@
-cross-arm-linux-gnu/binutils -multilib
-cross-arm-linux-gnu/gcc -multilib
-cross-arm-linux-gnu/linux-headers -multilib
-cross-arm-linux-gnu/glibc -multilib
-cross-arm-linux-gnu/gdb -multilib

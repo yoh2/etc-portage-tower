@@ -1,0 +1,2 @@
+# required by chrome-binary-plugins (argument)
+>=www-plugins/chrome-binary-plugins-41.0.2272.118_p1:stable google-chrome

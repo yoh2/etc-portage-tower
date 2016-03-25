@@ -1,5 +1,0 @@
-cross-arm-linux-gnu/binutils arm ~arm -amd64 -~amd64
-cross-arm-linux-gnu/gcc arm ~arm -amd64 -~amd64
-cross-arm-linux-gnu/linux-headers arm ~arm -amd64 -~amd64
-cross-arm-linux-gnu/glibc arm ~arm -amd64 -~amd64
-cross-arm-linux-gnu/gdb arm ~arm -amd64 -~amd64

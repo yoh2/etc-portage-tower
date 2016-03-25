@@ -1,5 +1,0 @@
-cross-arm-linux-ulibc/binutils arm -amd64 -~amd64
-cross-arm-linux-ulibc/gcc arm -amd64 -~amd64
-cross-arm-linux-ulibc/linux-headers arm -amd64 -~amd64
-cross-arm-linux-ulibc/gdb arm ~arm -amd64 -~amd64
-cross-arm-linux-ulibc/insight arm ~arm -amd64 -~amd64

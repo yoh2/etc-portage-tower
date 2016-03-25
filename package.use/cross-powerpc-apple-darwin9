@@ -1,3 +1,0 @@
-cross-powerpc-apple-darwin9/linux-headers -selinux
-cross-powerpc-apple-darwin9/gcc -selinux -boundschecking -d -fortran -gtk -gcj -libffi -mudflap -objc -objc++ -objc-gc -openmp nocxx
-cross-powerpc-apple-darwin9/binutils -selinux

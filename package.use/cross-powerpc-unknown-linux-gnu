@@ -1,4 +1,0 @@
-cross-powerpc-unknown-linux-gnu/binutils d mudflap objc objc++ -gtk -selinux -multilib
-cross-powerpc-unknown-linux-gnu/linux-headers d mudflap objc objc++ -gtk -selinux -multilib
-cross-powerpc-unknown-linux-gnu/glibc d mudflap objc objc++ -gtk -selinux -multilib
-cross-powerpc-unknown-linux-gnu/gcc d mudflap objc objc++ -gtk -selinux -boundschecking -d -gtk -gcj -libffi -mudflap -objc -objc++ -objc-gc -multilib

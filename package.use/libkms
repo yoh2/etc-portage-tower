@@ -1,0 +1,2 @@
+sys-boot/plymouth	libkms
+x11-libs/libdrm		libkms

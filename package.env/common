@@ -1,8 +1,0 @@
-dev-lang/ghc		single-job
-
-sys-auth/polkit		no-distcc
-
-sys-devel/gcc		no-distcc
-<sys-devel/gcc-4.3	no-distcc-oldarch
-sys-libs/klibc		no-distcc
-
