@@ -1,0 +1,6 @@
+app-emulation/vmware-workstation	~amd64
+app-emulation/vmware-modules		~amd64
+app-emulation/vmware-tools		~amd64
+
+=dev-libs/libgcrypt-1.5.4-r101		~amd64
+=dev-util/patchelf-0.9			~amd64

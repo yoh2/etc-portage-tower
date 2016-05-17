@@ -1,0 +1,2 @@
+media-libs/mesa		egl gles2
+x11-apps/mesa-progs	egl gles2
