@@ -1,0 +1,16 @@
+dev-python/docker-pycreds		~amd64
+dev-python/websocket-client		~amd64
+dev-python/cached-property		~amd64
+dev-python/backports-ssl-match-hostname	~amd64
+dev-python/colorama			~amd64
+dev-python/jsonschema			~amd64
+dev-python/ipaddress			~amd64
+dev-python/docker-py			~amd64
+dev-python/texttable			~amd64
+dev-python/webcolors			~amd64
+dev-python/strict-rfc3339		~amd64
+dev-python/rfc3987			~amd64
+dev-python/dockerpty			~amd64
+app-emulation/docker-compose		~amd64
+dev-python/vcversioner			~amd64
+dev-python/functools32			~amd64

@@ -1,2 +1,2 @@
 media-sound/audacious		gtk -gtk3 -qt5
-media-plugins/audacious-plugins	gtk -gtk3 -qt5
+media-plugins/audacious-plugins	gtk -gtk3 -qt5 cue b2sb mms wavpack -jack

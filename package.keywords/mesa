@@ -1,0 +1,2 @@
+# to build with llvm-3.9.0
+=media-libs/mesa-13.0.0*	~amd64

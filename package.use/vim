@@ -1,1 +1,2 @@
-app-editor/vim		vim-pager
+app-editors/vim		vim-pager python_targets: -* python3_5
+app-editors/gvim	python_targets: -* python3_5

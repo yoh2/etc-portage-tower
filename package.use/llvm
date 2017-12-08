@@ -1,1 +1,2 @@
-sys-devel/llvm		ocaml python clang
+sys-devel/llvm		ocaml python clang LLVM_TARGETS: *
+sys-devel/clang		LLVM_TARGETS: *

@@ -1,2 +1,4 @@
-sys-devel/clang		multitarget
-sys-devel/llvm		multitarget
+dev-lang/rust		clang
+
+sys-devel/clang		multitarget LLVM_TARGETS: *
+sys-devel/llvm		multitarget LLVM_TARGETS: *

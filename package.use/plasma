@@ -2,3 +2,4 @@ kde-plasma/plasma-desktop	legacy-systray gtk2 gtk3 qt4
 
 dev-libs/libdbusmenu		gtk3
 media-libs/mesa			wayland
+kde-framework/kfilemetadaa	-exif

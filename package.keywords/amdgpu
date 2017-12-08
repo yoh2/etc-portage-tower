@@ -1,0 +1,6 @@
+x11-drivers/amdgpu-pro				~amd64
+=sys-kernel/amdgpu-pro-dkms-16.40.348864	**
+=x11-libs/libdrm-2.4.66-r2			**
+=x11-libs/libdrm-2.4.70-r1			**
+sys-firmware/amdgpu-pro-ucode			~amd64
+
