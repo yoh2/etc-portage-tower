@@ -1,3 +1,4 @@
 www-client/chromium			hidpi hotwording widevine
 www-plugins/chromium-binary-plugins	widevine
 media-libs/libvpx			postproc svc
+net-libs/nodejs				inspector

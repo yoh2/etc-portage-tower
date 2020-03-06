@@ -1,2 +1,3 @@
 dev-qt/qtwayland	egl
 dev-qt/qtgui:5		egl
+dev-libs/libpcre2	pcre16

@@ -1,7 +1,8 @@
 virtual/rust			~amd64
-dev-lang/rust:stable		~amd64
+dev-lang/rust			~amd64
 app-eselect/eselect-rust	~amd64
 dev-util/cargo			~amd64
 app-emacs/rust-mode		~amd64
 # move app-vim/rust-mode app-vim/rust-vim
 app-vim/rust-vim		~amd64
+virtual/cargo			~amd64

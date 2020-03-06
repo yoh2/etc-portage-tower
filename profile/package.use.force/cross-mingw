@@ -1,0 +1,5 @@
+cross-mingw/binutils -multilib
+cross-mingw/gcc -multilib
+cross-mingw/w32api -multilib
+cross-mingw/mingw-runtime -multilib
+cross-mingw/gdb -multilib

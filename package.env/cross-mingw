@@ -1,0 +1,5 @@
+cross-mingw/binutils cross-mingw/binutils.conf
+cross-mingw/gcc cross-mingw/gcc.conf
+cross-mingw/w32api cross-mingw/w32api.conf
+cross-mingw/mingw-runtime cross-mingw/mingw-runtime.conf
+cross-mingw/gdb cross-mingw/gdb.conf

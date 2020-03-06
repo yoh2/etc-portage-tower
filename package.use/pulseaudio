@@ -1,0 +1,3 @@
+# use pulseaudio-modules-bt
+media-sound/pulseaudio	-bluetooth
+media-libs/fdk-aac	FraunhoferFDK

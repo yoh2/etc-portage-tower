@@ -1,3 +1,2 @@
-app-emulation/qemu		numa pulseaudio systemtap
-
+app-emulation/qemu		numa pulseaudio systemtap usbredir vde virgl spice
 media-plugins/alsa-plugins	pulseaudio

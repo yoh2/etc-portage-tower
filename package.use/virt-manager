@@ -1,0 +1,5 @@
+app-emulation/libvirt	numa virt-network parted pcap wirelhark-plugins
+net-misc/spice-gtk	usbredir
+net-dns/dnsmasq		script
+sys-block/parted	device-mapper
+
